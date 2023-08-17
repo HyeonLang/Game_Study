@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kjkw5\source\repos\Shooting_Game\Shooting_Game\main.cpp(546,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kjkw5\source\repos\Shooting_Game\Shooting_Game\main.cpp(546,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Shooting_Game.vcxproj -> C:\Users\kjkw5\source\repos\Shooting_Game\x64\Debug\Shooting_Game.exe

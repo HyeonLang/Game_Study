@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="API_minesweeper.h" />
+    <ClInclude Include="GameNode.h" />
+    <ClInclude Include="MainGame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="API_minesweeper.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="API_minesweeper.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="GameNode.cpp" />
+    <ClCompile Include="MainGame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="API_minesweeper.rc" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="_main.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Snake.cpp" />
+    <ClCompile Include="SnakeHead.cpp" />
+    <ClCompile Include="SnakeTail.cpp" />
+    <ClCompile Include="SnakeGame.cpp" />
+    <ClCompile Include="utility.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Apple.cpp" />
+    <ClCompile Include="Wall.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SnakeGame.h" />
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Snake.h" />
+    <ClInclude Include="SnakeHead.h" />
+    <ClInclude Include="SnakeTail.h" />
+    <ClInclude Include="utility.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="Apple.h" />
+    <ClInclude Include="Wall.h" />
+  </ItemGroup>
+</Project>
