@@ -1,11 +1,11 @@
 #pragma once
 #include "utility.h"
 #include "Card.h"
-class Player
+#include "Actor.h"
+class Player : Actor
 {
 public:
 
 private:
-	std::vector<Card*> my_card;
 };
 
