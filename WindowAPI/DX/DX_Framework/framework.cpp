@@ -1,0 +1,1 @@
+#include "framework.h"  // 속성 - 미리 컴파일된 헤더 - 사용 / framework.h

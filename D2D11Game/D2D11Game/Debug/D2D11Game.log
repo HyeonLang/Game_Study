@@ -1,0 +1,67 @@
+﻿  stdafx.cpp
+C:\Game_Study\D2D11Game\D2D11Game\Utility\GeometryGenerator.h(9,92): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Utility\GeometryGenerator.h(9,92): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Graphics.h(29,12): error C3646: 'clear_color': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Graphics.h(29,24): error C2059: 구문 오류: '='
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Graphics.h(29,36): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(8,13): error C3646: 'view': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(8,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(9,13): error C3646: 'projection': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(9,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(15,13): error C3646: 'world': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(15,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(20,14): error C3646: 'sprite_offset': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(20,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(21,14): error C3646: 'sprite_size': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(21,25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(22,14): error C3646: 'texture_size': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\Subsystem\Renderer\Renderer_ConstantBuffers.h(22,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(10,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(10,37): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(15,14): error C3646: 'position': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(15,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(16,12): error C3646: 'color': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(16,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(6,5): error C2614: 'D3D11_VertexColor': 멤버 초기화가 잘못되었습니다. 'position'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(7,5): error C2614: 'D3D11_VertexColor': 멤버 초기화가 잘못되었습니다. 'color'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(11,14): error C2065: 'position': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(12,11): error C2065: 'color': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(11,5): error C2614: 'D3D11_VertexColor': 멤버 초기화가 잘못되었습니다. 'position'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(12,5): error C2614: 'D3D11_VertexColor': 멤버 초기화가 잘못되었습니다. 'color'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(29,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(29,39): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(34,14): error C3646: 'position': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(34,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(35,14): error C3646: 'uv': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(35,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(25,5): error C2614: 'D3D11_VertexTexture': 멤버 초기화가 잘못되었습니다. 'position'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(26,5): error C2614: 'D3D11_VertexTexture': 멤버 초기화가 잘못되었습니다. 'uv'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(30,14): error C2065: 'position': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(31,8): error C2065: 'uv': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(30,5): error C2614: 'D3D11_VertexTexture': 멤버 초기화가 잘못되었습니다. 'position'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Core\D3D11\Vertex\Vertex.h(31,5): error C2614: 'D3D11_VertexTexture': 멤버 초기화가 잘못되었습니다. 'uv'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(13,10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(13,28): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(19,14): error C3646: 'offset': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(19,20): error C2059: 구문 오류: '{'
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(19,20): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(20,14): error C3646: 'size': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(20,18): error C2059: 구문 오류: '{'
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(20,18): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(14,12): error C2065: 'offset': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(15,10): error C2065: 'size': 선언되지 않은 식별자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(14,5): error C2614: 'Keyframe': 멤버 초기화가 잘못되었습니다. 'offset'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(15,5): error C2614: 'Keyframe': 멤버 초기화가 잘못되었습니다. 'size'이(가) 기본 또는 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(39,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(39,19): error C2143: 구문 오류: ';'이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(39,50): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(40,45): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(40,45): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(50,36): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(50,36): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(59,14): error C3646: 'sprite_texture_size': 알 수 없는 재정의 지정자입니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(59,34): error C2059: 구문 오류: '='
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(59,59): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(40,61): error C2039: 'sprite_texture_size': 'Animation'의 멤버가 아닙니다.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(24,7): message : 'Animation' 선언을 참조하십시오.
+C:\Game_Study\D2D11Game\D2D11Game\Resource\Animation.h(40,83): error C2065: 'size': 선언되지 않은 식별자입니다.

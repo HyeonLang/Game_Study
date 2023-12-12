@@ -1,0 +1,11 @@
+C:\Game_Study\WindowAPI\DX\DX_2D\DX_2D.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\DX_2D.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Framework\Shader\PixelShader.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\PixelShader.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Framework\Shader\VertexShader.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\VertexShader.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Framework\System\Device.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Device.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Object\Shapes\Hexagons.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Hexagons.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Object\Shapes\Shape.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Shape.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Object\Shapes\Triangles.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Triangles.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Object\Shapes\Vertex.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Vertex.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\pch.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\pch.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Program\Program.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\Program.obj
+C:\Game_Study\WindowAPI\DX\DX_2D\Scenes\TutorialScene.cpp;C:\Game_Study\WindowAPI\DX\DX_2D\x64\Debug\TutorialScene.obj

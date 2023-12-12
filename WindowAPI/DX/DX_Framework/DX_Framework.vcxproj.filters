@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="DX_Framework.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Framework\System\Device.h" />
+    <ClInclude Include="Program\Program.h" />
+    <ClInclude Include="Scenes\TutorialScene.h" />
+    <ClInclude Include="Framework\Shader\VertexShader.h" />
+    <ClInclude Include="Framework\Shader\PixelShader.h" />
+    <ClInclude Include="Object\Shapes\Vertex.h" />
+    <ClInclude Include="Object\Shapes\Shape.h" />
+    <ClInclude Include="Object\Shapes\Triangles.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="DX_Framework.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DX_Framework.cpp" />
+    <ClCompile Include="Framework\System\Device.cpp" />
+    <ClCompile Include="framework.cpp" />
+    <ClCompile Include="Program\Program.cpp" />
+    <ClCompile Include="Scenes\Scene.h" />
+    <ClCompile Include="Scenes\TutorialScene.cpp" />
+    <ClCompile Include="Framework\Shader\VertexShader.cpp" />
+    <ClCompile Include="Framework\Shader\PixelShader.cpp" />
+    <ClCompile Include="Object\Shapes\Shape.cpp" />
+    <ClCompile Include="Object\Shapes\Triangles.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DX_Framework.rc" />
+  </ItemGroup>
+</Project>

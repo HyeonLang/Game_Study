@@ -1,0 +1,4 @@
+﻿  Drawing.cpp
+C:\Game_Study\WindowAPI\2_Drawing\Drawing.cpp(191,23): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Game_Study\WindowAPI\2_Drawing\Drawing.cpp(202,54): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Brand_new_AIP.vcxproj -> C:\Game_Study\WindowAPI\2_Drawing\x64\Debug\API_Day2.exe

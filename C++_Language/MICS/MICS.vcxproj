@@ -26,6 +26,7 @@
     <ClCompile Include="10_exception_handling_5.cpp" />
     <ClCompile Include="10_exception_handling_6.cpp" />
     <ClCompile Include="11_for_each.cpp" />
+    <ClCompile Include="12_type_inference.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
